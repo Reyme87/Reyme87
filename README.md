@@ -57,3 +57,9 @@
     <td><b>Менеджер паролей с шифрованием сетью Фейстеля</b><br/>Приложение для безопасного хранения паролей с собственной реализацией криптографического алгоритма</td>
   </tr>
 </table>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Reyme87/Reyme87/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Reyme87/Reyme87/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Reyme87/Reyme87/output/github-contribution-grid-snake.svg">
+</picture>
