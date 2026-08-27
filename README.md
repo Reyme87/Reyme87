@@ -1,4 +1,4 @@
-<h3 align="center">Иван, .Net Developer | C# / .NET</h3>
+<h1 align="center">Иван, .Net Developer | C# / .NET</h1>
 
 ---
 
